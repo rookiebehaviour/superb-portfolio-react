@@ -1,6 +1,8 @@
 import "./App.css";
 import Home from "./Home";
 import Bio from "./Bio";
+import Projects from "./Projects";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -8,6 +10,8 @@ function App() {
       <div className="App">
         <Home />
         <Bio />
+        <Projects />
+        <Footer />
       </div>
     </div>
   );
