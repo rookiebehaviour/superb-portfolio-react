@@ -70,7 +70,7 @@ export default function Footer() {
         <small>
           This website was coded by Jacqueline ❤️ Mason and is{" "}
           <a
-            href="https://github.com/rookiebehaviour/superb-portfolio"
+            href="https://github.com/rookiebehaviour/superb-portfolio-react"
             title="Jacqueline's github portfolio"
             target="_blank"
             rel="noreferrer"
