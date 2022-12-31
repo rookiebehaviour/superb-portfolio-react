@@ -22,6 +22,10 @@ small a {
   color: var(--secondary-color);
 }
 
+.Footer i:hover {
+  color: var(--secondary-color);
+}
+
 .Footer .source {
   display: block;
   margin: 0 auto;
