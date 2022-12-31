@@ -8,6 +8,7 @@ export default function Bio() {
     <div className="Bio">
       <section id="bio">
         <h2 class="section-title">About Me</h2>
+
         <p>
           Welcome to my portfolio! The online community knows me as Rookie
           Behaviour, or simply... Rookie. No, it has nothing to do with my
@@ -22,6 +23,7 @@ export default function Bio() {
           <br />
           <br />
         </p>
+
         <p class="section-title">Regularly Used</p>
         <div class="about-icons">
           <i class="fa-brands fa-windows" title="windows"></i>

@@ -43,7 +43,9 @@ export default function Home() {
 
       <section id="home">
         <h1 className="name">Jacqueline Mason</h1>
-        <h2 className="title">• Front-end Developer •</h2>
+        <h2 className="title animate__animated animate__rotateInDownLeft">
+          • Front-end Developer •
+        </h2>
         <div className="pic">
           <img
             src={ProfilePic}
