@@ -16,7 +16,7 @@ export default function Bio() {
           I'm not coding, that's probably what I'm doing.
           <br />
           <br />
-          I started my coding journey in 2020 where I taught myself full-stack
+          I started my coding journey in 2020 when I taught myself full-stack
           Software Development with freeCodeCamp online. I recently graduated
           from SheCodes where I received my Front-end Development Certification.
           <br />
