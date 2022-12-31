@@ -68,7 +68,8 @@ export default function Footer() {
       </div>
       <div className="source">
         <small>
-          This site was built using React by Jacqueline ❤️ Mason and is{" "}
+          This site was built using React + Bootstrap by Jacqueline ❤️ Mason and
+          is{" "}
           <a
             href="https://github.com/rookiebehaviour/superb-portfolio-react"
             title="Jacqueline's github portfolio"
