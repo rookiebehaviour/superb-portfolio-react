@@ -12,13 +12,13 @@ export default function Bio() {
           Welcome to my portfolio! The online community knows me as Rookie
           Behaviour, or simply... Rookie. No, it has nothing to do with my
           coding skills, but my gaming skills 😂. I'm a mother, tech guru, and
-          console nerd that loves PlayStation gaming! When I'm not coding,
-          that's probably what I'm doing.
+          console nerd from Middletown, Ohio that loves PlayStation gaming! When
+          I'm not coding, that's probably what I'm doing.
           <br />
           <br />
-          I started my coding journey in 2020 where I taught myself Software
-          Development with freeCodeCamp online. I recently graduated from
-          SheCodes where I received my Front-end Development Certification.
+          I started my coding journey in 2020 where I taught myself full-stack
+          Software Development with freeCodeCamp online. I recently graduated
+          from SheCodes where I received my Front-end Development Certification.
           <br />
           <br />
         </p>
