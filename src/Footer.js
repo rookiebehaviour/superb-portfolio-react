@@ -1,4 +1,5 @@
 import React from "react";
+import "./Footer.css";
 
 export default function Footer() {
   return (
@@ -67,7 +68,7 @@ export default function Footer() {
       </div>
       <div className="source">
         <small>
-          This website was coded by Jacqueline ❤️ Mason and is
+          This website was coded by Jacqueline ❤️ Mason and is{" "}
           <a
             href="https://github.com/rookiebehaviour/superb-portfolio"
             title="Jacqueline's github portfolio"

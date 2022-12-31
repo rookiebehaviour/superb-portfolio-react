@@ -1,4 +1,5 @@
 import React from "react";
+import "./Projects.css";
 import MusicWebsite from "./music-website.png";
 import Dictionary from "./React-dictionary-app.png";
 import WeatherApp from "./react-weather-app.png";

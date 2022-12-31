@@ -1,4 +1,5 @@
 import React from "react";
+import "./Bio.css";
 import ReactCertificate from "./Advanced-react-development-certificate.png";
 import FrontEndCertificate from "./Front-end-developer-certificate.png";
 

@@ -1,4 +1,5 @@
 import React from "react";
+import "./Home.css";
 import ProfilePic from "./Profile-pic.jpg";
 
 export default function Home() {

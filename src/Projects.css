@@ -1,0 +1,38 @@
+.Projects #projects img {
+  border-radius: 8px;
+  margin: 20px 0;
+  transition: all 150ms ease-in-out;
+}
+
+.Projects #projects img:hover {
+  transform: scale(1.1);
+}
+
+.Projects .projects {
+  margin-bottom: 100px;
+}
+
+.Projects .btn {
+  color: var(--primary-color);
+  background: var(--secondary-color);
+}
+
+.Projects .btn:hover {
+  color: var(--secondary-color);
+  background: var(--primary-color);
+}
+
+@media (max-width: 800px) {
+  .Projects p {
+    font-size: 16px;
+    text-align: justify;
+  }
+
+  .Projects .btn {
+    width: 100%;
+  }
+
+  .Projects .projects {
+    margin-bottom: 0;
+  }
+}
