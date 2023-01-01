@@ -16,15 +16,13 @@ export default function Bio() {
           console nerd from Middletown, Ohio that loves PlayStation gaming! When
           I'm not coding, that's probably what I'm doing.
           <br />
-          <br />
-          I started my coding journey in 2020 when I taught myself full-stack
-          Software Development with freeCodeCamp online. I recently graduated
-          from SheCodes where I received my Front-end Development Certification.
-          <br />
-          <br />
+          <br />I started my coding journey in 2020 when I taught myself
+          full-stack Software Development with freeCodeCamp online. I recently
+          graduated from SheCodes where I received my Front-end Development
+          Certification.
         </p>
 
-        <p class="section-title">Regularly Used</p>
+        <p className="subtitle">Regularly Used</p>
         <div class="about-icons">
           <i class="fa-brands fa-windows" title="windows"></i>
           <i class="fa-brands fa-square-js" title="JavaScript"></i>

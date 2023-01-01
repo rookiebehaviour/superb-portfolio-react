@@ -13,6 +13,14 @@
   color: var(--secondary-color);
 }
 
+.Footer footer ul {
+  padding: 0;
+}
+
+.Footer footer li {
+  list-style: none;
+}
+
 .Footer footer a,
 small a {
   color: var(--text-color);

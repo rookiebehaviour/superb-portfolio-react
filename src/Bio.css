@@ -1,10 +1,17 @@
 .Bio .about-icons {
   padding: 20px 0;
+  text-align: center;
 }
 
 .Bio .about-icons i {
   padding: 5px;
   font-size: 60px;
+}
+
+.Bio .subtitle {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
 }
 
 .Bio .certifications {

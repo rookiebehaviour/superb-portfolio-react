@@ -3,12 +3,14 @@
   font-size: 85px;
   font-weight: bold;
   color: var(--secondary-color);
+  text-align: center;
   margin: 0;
 }
 
 .Home .title {
+  text-align: right;
   font-style: italic;
-  margin: 0;
+  margin-bottom: 15px;
 }
 
 .Home .pic {
@@ -27,6 +29,7 @@
 @media (max-width: 800px) {
   .Home .name {
     font-size: 50px;
+    padding-bottom: 10px;
   }
 
   .Home p {
@@ -34,15 +37,10 @@
     text-align: justify;
   }
 
-  .Home h1 .Home #home h2 {
+  .Home h1,
+  .Home h2 {
     text-align: center;
     margin: 0;
-  }
-
-  .Home footer {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 5px;
   }
 
   .Home .pic {
