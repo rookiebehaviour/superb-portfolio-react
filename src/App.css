@@ -60,7 +60,7 @@ p {
 }
 
 .App .section-title {
-  max-width: 50%;
+  max-width: 25%;
   color: var(--secondary-color);
   box-shadow: 6px 20px 0px var(--secondary-color);
   border-top-left-radius: 190px;
