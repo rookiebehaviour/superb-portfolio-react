@@ -1,22 +1,31 @@
 .Home .name {
   font-family: var(--h1-font-family);
-  font-size: 85px;
+  font-size: 95px;
   font-weight: bold;
   color: var(--secondary-color);
-  text-align: center;
+  text-align: left;
+  padding: 80px 0 20px 0;
   margin: 0;
+  line-height: 1;
 }
 
 .Home .title {
-  text-align: right;
+  text-align: left;
   font-style: italic;
   margin-bottom: 15px;
+  line-height: 2;
+}
+
+.Home .two-column-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
 }
 
 .Home .pic {
   display: block;
   margin: 0 auto;
-  width: 300px;
+  max-width: 425px;
 }
 
 .Home .pic img {
@@ -26,10 +35,22 @@
   border-bottom-right-radius: 190px;
 }
 
+.Home a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 800px) {
   .Home .name {
-    font-size: 50px;
-    padding-bottom: 10px;
+    font-size: 48px;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  .Home .title {
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 0;
+    line-height: 1.5;
   }
 
   .Home p {
@@ -37,15 +58,9 @@
     text-align: justify;
   }
 
-  .Home h1,
-  .Home h2 {
-    text-align: center;
-    margin: 0;
-  }
-
   .Home .pic {
     display: block;
-    max-width: 100%;
+    max-width: 350px;
     padding: 15px;
   }
 
@@ -53,5 +68,12 @@
     max-width: 100%;
     display: block;
     margin: 0 auto;
+  }
+
+  .Home .two-column-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 10px;
   }
 }
