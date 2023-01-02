@@ -52,11 +52,19 @@ export default function Home() {
                 </div>
               </div>
             </nav>
-
             <h1 className="name">Jacqueline Mason</h1>
             <h2 className="title animate__animated animate__rotateInDownLeft">
               • Front-end Developer •
             </h2>
+            <div className="text-image-holder">
+              <a href="https://git.io/typing-svg">
+                <img
+                  src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&pause=1000&color=6D9886&center=true&lines=%3Ch2%3EHi+there!+👋🏽%3C%2Fh2%3E;%3Ch1%3EI'm+Jacqueline.%3C%2Fh1%3E;%3Cp%3EHave+a+great+day!%3C%2Fp%3E"
+                  alt="Typing SVG"
+                  className="img-fluid text-image"
+                />
+              </a>
+            </div>
           </div>
 
           <div className="pic">

@@ -7,6 +7,7 @@
   padding: 80px 0 20px 0;
   margin: 0;
   line-height: 1;
+  text-align: center;
 }
 
 .Home .title {
@@ -14,6 +15,7 @@
   font-style: italic;
   margin-bottom: 15px;
   line-height: 2;
+  text-align: center;
 }
 
 .Home .two-column-grid {
@@ -56,6 +58,17 @@
   .Home p {
     font-size: 16px;
     text-align: justify;
+  }
+
+  .Home .text-image-holder {
+    max-width: 350px;
+    padding: 10px;
+  }
+
+  .Home img .text-image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
   }
 
   .Home .pic {
