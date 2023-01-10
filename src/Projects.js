@@ -159,7 +159,8 @@ export default function Projects() {
           <div className="col-sm-6 p-4 projects">
             <h3>File Sharing Microservice</h3>
             <p>
-              This JS microservice uses MongoDB, Mongoose, Express, and Bcrypt.
+              This JS microservice uses MongoDB, Mongoose, Express, Bcrypt, and
+              NodeJS.
             </p>
             <div>
               <a
