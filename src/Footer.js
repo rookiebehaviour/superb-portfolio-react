@@ -11,8 +11,10 @@ export default function Footer() {
               <h5>Tools</h5>
             </li>
             <li>VS Code</li>
-            <li>Windows 10/11</li>
+            <li>InVision</li>
+            <li>Figma</li>
             <li>Github</li>
+            <li>Windows 10/11</li>
           </ul>
         </div>
         <div>
@@ -20,8 +22,10 @@ export default function Footer() {
             <li>
               <h5>Technologies</h5>
             </li>
+            <li>NPM</li>
             <li>React.js</li>
             <li>Bootstrap</li>
+            <li>Semantic-UI</li>
             <li>Responsive Development</li>
           </ul>
         </div>

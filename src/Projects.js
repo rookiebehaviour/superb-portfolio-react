@@ -4,6 +4,8 @@ import MusicWebsite from "./music-website.png";
 import Dictionary from "./React-dictionary-app.png";
 import WeatherApp from "./react-weather-app.png";
 import WorldClock from "./world-clock.png";
+import FileSharing1 from "./file-sharing-microservice.png";
+import FileSharing2 from "./file-sharing-microservice-success.png";
 
 export default function Projects() {
   return (
@@ -137,6 +139,39 @@ export default function Projects() {
               title="World clock app"
               className="img-fluid shadow"
             />
+          </div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-sm-6 p-2 projects">
+            <img
+              src={FileSharing1}
+              alt="File sharing app"
+              title="File sharing app"
+              className="img-fluid shadow"
+            />
+            <img
+              src={FileSharing2}
+              alt="File sharing app"
+              title="File sharing app"
+              className="img-fluid shadow"
+            />
+          </div>
+          <div className="col-sm-6 p-4 projects">
+            <h3>File Sharing Microservice</h3>
+            <p>
+              This JS microservice uses MongoDB, Mongoose, Express, Bcrypt, and
+              NodeJS.
+            </p>
+            <div>
+              <a
+                href="https://github.com/rookiebehaviour/file-share"
+                className="btn btn-secondary rounded-pill border border-2 pt-2 pb-2 ps-5 pe-5 mt-3 shadow"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Source
+              </a>
+            </div>
           </div>
         </div>
       </section>
