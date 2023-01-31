@@ -144,12 +144,6 @@ export default function Projects() {
         <div className="row mb-3">
           <div className="col-sm-6 p-2 projects">
             <img
-              src={FileSharing1}
-              alt="File sharing app"
-              title="File sharing app"
-              className="img-fluid shadow"
-            />
-            <img
               src={FileSharing2}
               alt="File sharing app"
               title="File sharing app"

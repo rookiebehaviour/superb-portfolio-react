@@ -34,7 +34,6 @@ export default function Footer() {
             <li>
               <h5>Contact Me</h5>
             </li>
-            <li>jmason.tta@gmail.com</li>
             <li>
               <a
                 href="https://rxresu.me/jmason.tta/frontend-developer-resume"

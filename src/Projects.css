@@ -29,7 +29,6 @@
 @media (max-width: 800px) {
   .Projects p {
     font-size: 16px;
-    text-align: justify;
   }
 
   .Projects .btn {
